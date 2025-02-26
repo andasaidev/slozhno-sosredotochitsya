@@ -9,12 +9,12 @@
   --background-color: #fff1f7;
   --text-color: #353430;
   --accent-color: #ff8dcb;
-  --onTitle-color: #ffc2e6;
-  --color-onMenu: #353430;
+  --title-color: #ffc2e6;
+  --color-menu: #353430;
   --border-color: rgba(53, 52, 48, 0.5);
-  --textOnBlocks: #353430;
-  --color-questionTitle: #353430;
-  --questionListTitle: #353430;
+  --text-on-blocks: #353430;
+  --color-question-title: #353430;
+  --question-list-title: #353430;
   --visible: hidden;
 }
 
@@ -24,12 +24,12 @@
     --background-color: #fff1f7;
     --text-color: #353430;
     --accent-color: #ff8dcb;
-    --onTitle-color: #ffc2e6;
-    --color-onMenu: #353430;
+    --title-color: #ffc2e6;
+    --color-menu: #353430;
     --border-color: rgba(53, 52, 48, 0.5);
-    --textOnBlocks: #353430;
-    --color-questionTitle: #353430;
-    --questionListTitle: #353430;
+    --text-on-blocks: #353430;
+    --color-question-title: #353430;
+    --question-list-title: #353430;
     --visible: hidden;
   }
 }
